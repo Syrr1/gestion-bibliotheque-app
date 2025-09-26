@@ -11,9 +11,9 @@
 3. Lancer : `python main.py`
 
 ## 📁 Fichiers
-- `Code/main.py` : Application principale
-- `Code/requirements.txt` : Dépendances Python
-- `Base de données/Tables_Mysql.sql` : Structure base
+- `main.py` : Application principale
+- `requirements.txt` : Dépendances Python
+- `Tables_Mysql.sql` : Structure base
 - `Images/` : Logos et icônes
 
 ## 👨‍💻 Auteur
