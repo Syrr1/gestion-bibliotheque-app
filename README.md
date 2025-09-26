@@ -14,7 +14,7 @@
 - `main.py` : Application principale
 - `requirements.txt` : Dépendances Python
 - `Tables_Mysql.sql` : Structure base
-- `Images/` : Logos et icônes
+- `Images` : Logos et icônes
 
 ## 👨‍💻 Auteur
 Rock Somda Statisticien & Informaticien
